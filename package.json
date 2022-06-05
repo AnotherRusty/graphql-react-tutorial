@@ -1,0 +1,26 @@
+{
+    "name": "graphql-react-tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SuperUltraExtraordinaryDev/graphql-react-tutorial.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SuperUltraExtraordinaryDev/graphql-react-tutorial/issues"
+    },
+    "homepage": "https://github.com/SuperUltraExtraordinaryDev/graphql-react-tutorial#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "express-graphql": "^0.12.0",
+        "graphql": "^16.5.0",
+        "nodemon": "^2.0.16"
+    }
+}
